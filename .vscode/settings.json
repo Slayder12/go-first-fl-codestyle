@@ -1,0 +1,7 @@
+{
+	"editor.formatOnPaste": false,
+	"editor.formatOnSave": true,
+	"diffEditor.codeLens": false,
+	"workbench.editor.wrapTabs": false,
+	"editor.tabSize": 4
+}
